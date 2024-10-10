@@ -26,19 +26,19 @@ This type of program can be helpful for adding a time-aware greeting system to l
 
 **How It Works**:
 
-**Time Retrieval:**  The script uses the time.strftime() function to obtain the current system time.
+    Time Retrieval:  The script uses the time.strftime() function to obtain the current system time.
 
-**Hour Extraction:** The hour component of the time is extracted and used to determine the greeting category.
+    Hour Extraction: The hour component of the time is extracted and used to determine the greeting category.
 
-**Greeting Display:** A greeting is printed based on the time, creating a dynamic experience for the user.
+    Greeting Display: A greeting is printed based on the time, creating a dynamic experience for the user.
 
 **Use Cases**:
 
-**Daily Interaction:** Integrate this script into systems or applications that interact with users daily, such as a desktop assistant or automated notification systems.
+    Daily Interaction: Integrate this script into systems or applications that interact with users daily, such as a desktop assistant or automated notification systems.
 
-**Learning Project:** Ideal for beginners who are learning how to handle time functions in Python.
+    Learning Project: Ideal for beginners who are learning how to handle time functions in Python.
 
-**UI/UX Enhancement:** Can be used to enhance the user experience in simple applications, making them feel more interactive and time-sensitive.
+    UI/UX Enhancement: Can be used to enhance the user experience in simple applications, making them feel more interactive and time-sensitive.
 
 **How to Run**:
 
