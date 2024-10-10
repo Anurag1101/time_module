@@ -48,11 +48,11 @@ This type of program can be helpful for adding a time-aware greeting system to l
 
 **Setup**:
 
-**Clone the Repository:** First, clone this repository to your local machine using Git: git clone https://github.com/YourUsername/time_module.git
+    Clone the Repository: First, clone this repository to your local machine using Git: git clone https://github.com/YourUsername/time_module.git
 
-**Navigate to the Project Directory:** cd time_module
+    Navigate to the Project Directory: cd time_module
 
-**Run the Script:**  Execute the script using Python: python time_module.py
+    Run the Script: Execute the script using Python: python time_module.py
 
 **Future Enhancements**:
 
