@@ -8,7 +8,7 @@ def get_greeting():
     # Determine the greeting based on the hour of the day
     if current_hour < 12:
         return "Good Morning"
-    elif current_hour < 15:
+    elif current_hour < 16:
         return "Good Afternoon"
     elif current_hour < 20:
         return "Good Evening"
