@@ -1,7 +1,7 @@
 import time
 
 def get_greeting():
-    current_time = time.strftime('%H:%M:%S')  # Current time in HH:MM:SS format
+    current_time = time.strftime('%H:%M:%S')  # Current Time in HH:MM:SS format
     current_hour = int(time.strftime('%H'))  # Extracting the Hour Part
     print(f"Current time: {current_time}")  # Display the Current Time
 
