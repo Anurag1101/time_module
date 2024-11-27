@@ -1,4 +1,4 @@
-**Time-based Greeting Program**
+# **Time-based Greeting Program**
 
 Welcome to the **Time-based Greeting Program!** This Python script generates a customized greeting depending on the current time of day, providing a user-friendly interaction that adjusts dynamically based on the hour.
 
