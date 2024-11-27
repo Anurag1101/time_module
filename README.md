@@ -8,7 +8,7 @@ This project was designed to create a simple yet functional program that greets 
 
 This type of program can be helpful for adding a time-aware greeting system to larger projects, enhancing user interaction, or even as an introduction to learning how Python handles date and time operations.
 
-**Key Features**:
+## **Key Features**:
 
 **Current Time Display:** The program prints the current system time in HH:MM:SS format before providing a greeting.
 
