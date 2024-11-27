@@ -2,7 +2,7 @@
 
 Welcome to the **Time-based Greeting Program!** This Python script generates a customized greeting depending on the current time of day, providing a user-friendly interaction that adjusts dynamically based on the hour.
 
-**Overview**:
+## **Overview**:
 
 This project was designed to create a simple yet functional program that greets users based on the time they run the script. The program utilizes the time module from Python's standard library to fetch and display the current system time. Then, it returns an appropriate greeting based on predefined time intervals, such as "Good Morning" or "Good Night."
 
