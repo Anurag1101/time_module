@@ -24,7 +24,7 @@ This type of program can be helpful for adding a time-aware greeting system to l
     
 **Simple and Lightweight:** Requires no external dependencies, only standard Python libraries.
 
-**How It Works**:
+## **How It Works**:
 
     Time Retrieval:  The script uses the time.strftime() function to obtain the current system time.
 
