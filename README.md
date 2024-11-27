@@ -40,7 +40,7 @@ This type of program can be helpful for adding a time-aware greeting system to l
 
     UI/UX Enhancement: Can be used to enhance the user experience in simple applications, making them feel more interactive and time-sensitive.
 
-**How to Run**:
+## **How to Run**:
 
 **Prerequisites**:
 
@@ -54,7 +54,7 @@ This type of program can be helpful for adding a time-aware greeting system to l
 
     Run the Script: Execute the script using Python: python time_module.py
 
-**Future Enhancements**:
+## **Future Enhancements**:
 
 This project serves as a foundational example, but it can be expanded with various features:
 
@@ -66,7 +66,7 @@ This project serves as a foundational example, but it can be expanded with vario
 
 **Graphical User Interface (GUI):** Build a simple interface using libraries like Tkinter or PyQt to make the program more visually appealing.
 
-**Contribution**:
+## **Contribution**:
 
 We welcome contributions to this project! If you have ideas for new features, improvements, or bug fixes, feel free to:
 
@@ -78,13 +78,13 @@ We welcome contributions to this project! If you have ideas for new features, im
     
     For major changes, please open an issue first to discuss what you would like to change.
 
-**License**:
+## **License**:
 
-This project is licensed under the MIT License, which means you can freely modify and distribute the project as long as the original authors are credited. See the LICENSE file for more details.
+This project is licensed under the `MIT` License, which means you can freely modify and distribute the project as long as the original authors are credited. See the LICENSE file for more details.
 
-**Acknowledgments**:
+## **Acknowledgments**:
 
 This project was created as a simple yet effective way to demonstrate Python's time-handling capabilities.
 
-Special thanks to the Python community for providing extensive documentation and support, making it easier to develop and share Python-based projects.
+## Special thanks to the Python community for providing extensive documentation and support, making it easier to develop and share Python-based projects.
 
